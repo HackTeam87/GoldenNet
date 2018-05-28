@@ -41,6 +41,7 @@
                 </div>
                 <div class="clearfix"></div>
             </div>
+            <a class="btn btn-info" href="{{ URL::previous() }}">Назад</a>
         </div>
     </div>
     <!-- //blog -->

@@ -34,7 +34,7 @@
                     <span class="icon-bar"></span>
                 </button>
                 <div class="w3layouts-logo">
-                    <h1><a href="index.html">Golden <span>Net</span></a></h1>
+                    <h1><a href="/">Golden <span>Net</span></a></h1>
                 </div>
             </div>
 
@@ -43,14 +43,14 @@
                 <nav>
                     <ul class="nav navbar-nav">
                         <li class="active"><a href="/">Головна</a></li>
-                        <li><a href="about.html" class="hvr-sweep-to-bottom">Про нас</a></li>
-                        <li><a href="#price" class="hvr-sweep-to-bottom">Тарифи</a></li>
+                        <li><a href="/about" class="hvr-sweep-to-bottom">Про нас</a></li>
+                        <li><a href="/price" class="hvr-sweep-to-bottom">Тарифи</a></li>
                         <li><a href="#" class="dropdown-toggle hvr-sweep-to-bottom" data-toggle="dropdown" role="button"
                                aria-haspopup="true" aria-expanded="false">Сторінки<span class="caret"></span></a>
                             <ul class="dropdown-menu">
-                                <li><a class="hvr-sweep-to-bottom" href="services.html">Послуги</a></li>
-                                <li><a class="hvr-sweep-to-bottom" href="services.html">Пристрої</a></li>
-                                <li><a class="hvr-sweep-to-bottom" href="faq.html">Інструкції</a></li>
+                                <li><a class="hvr-sweep-to-bottom" href="/services">Послуги</a></li>
+                                <li><a class="hvr-sweep-to-bottom" href="/device">Пристрої</a></li>
+                                <li><a class="hvr-sweep-to-bottom" href="/faq">Інструкції</a></li>
                             </ul>
                         </li>
                         <li><a href="/news" class="hvr-sweep-to-bottom">Новини</a></li>

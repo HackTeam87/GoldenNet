@@ -14,7 +14,7 @@
                     @foreach($news as $item)
                     <div class="agile-blog-grid">
                         <div class="agile-blog-grid-left-img">
-                            <a href="site_downloads/images_news/{{$item->image}}"><img src="site_downloads/images_news/{{$item->image}}" alt="img"/></a>
+                            {{--<a href="site_downloads/images_news/{{$item->image}}"><img src="site_downloads/images_news/{{$item->image}}" alt="img"/></a>--}}
                         </div>
                         <div class="blog-left-grids">
                             <div class="blog-left-left">
@@ -30,7 +30,7 @@
                                     <p>
                                        {{$item->text}}
                                     </p>
-                                    <a href="single.html">Більше</a>
+                                    <a href="/more/{{$item->id}}">Більше</a>
                                 </div>
                             </div>
                             <div class="clearfix"></div>
